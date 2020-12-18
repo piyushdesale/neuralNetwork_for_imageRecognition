@@ -1,1 +1,1 @@
-# neuralNetwork_for_imageRecognition
+# neuralNetwork for imageRecognition
